@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Swing Monkeys",
-    "currentPage": "media.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -67,7 +67,7 @@
       "settings": {
         "main": true,
         "title": "Swing Monkeys",
-        "meta_descr": "Escuela de bailes swing en Málaga. Swing Monkeys ofrece clases regulares, talleres, eventos sociales, animación, y actuaciones. ¿Quieres aprender a bailar swing? ¡Apúntate con nosotros!",
+        "meta_descr": "Escuela de bailes swing en Málaga. Swing Monkeys ofrece clases regulares, talleres, eventos sociales, animación, y actuaciones.  ¡Aprende a bailar swing!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
