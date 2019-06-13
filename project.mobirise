@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Swing Monkeys",
-    "currentPage": "index.html",
+    "currentPage": "contacto.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2317,7 +2317,7 @@
     "eventos.html": {
       "settings": {
         "title": "Eventos",
-        "meta_descr": "Swing Monkeys organiza talleres, bailes sociales, fiestas... en Málaga. Mira el calendario para enterar de nuestros eventos.\n\nOfrecemos animación y actuaciones con hoteles, bares, músicos, asociaciones, bodas, etc.  ¡Escríbenos para incluir swing en tu evento o local! ",
+        "meta_descr": "Swing Monkeys organiza eventos de swing en Málaga. Mira nuestro calendario de eventos.\n\n¿Quieres swing en tu evento o local? ¡Cuenta con nosotrxs!\n\n¡Ofrecemos animación, actuaciones, fiestas, clases abiertas, talleres/intensivos y más!\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -2973,7 +2973,7 @@
     "media.html": {
       "settings": {
         "title": "Media",
-        "meta_descr": "Swing Monkeys, escuela de bailes swing en Málaga - Fotos, videos, pasos monos, y blog. ¡Cada semana subimos un Paso Mono para inspirarte! \n",
+        "meta_descr": "Swing Monkeys, escuela de bailes swing en Málaga - Fotos, pasos monos, y blog. ¡Cada semana subimos un Paso Mono para inspirarte! \n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
