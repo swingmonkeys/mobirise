@@ -8758,6 +8758,27 @@ body {
   color: #7f9f6e;
   text-align: center;
 }
+.cid-sbUtuXCM0h {
+  background: #fef4e2;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-sbUtuXCM0h .image-block {
+  margin: auto;
+}
+.cid-sbUtuXCM0h figcaption {
+  position: relative;
+}
+.cid-sbUtuXCM0h figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sbUtuXCM0h .image-block {
+    width: 100% !important;
+  }
+}
 .cid-sb3RN1cFHh {
   padding-top: 45px;
   padding-bottom: 45px;
