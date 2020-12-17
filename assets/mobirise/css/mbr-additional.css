@@ -8750,6 +8750,99 @@ body {
   color: #7f9f6e;
   text-align: center;
 }
+.cid-sjqQzoN4Os {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-color: #fef4e2;
+}
+.cid-sjqQzoN4Os .mbr-section-subtitle {
+  color: #7f9f6e;
+}
+.cid-sjqQzoN4Os .mbr-text {
+  color: #7f9f6e;
+}
+.cid-sjqQzoN4Os .card {
+  display: -webkit-flex;
+  position: relative;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-sjqQzoN4Os .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-sjqQzoN4Os .card-wrapper .card-img {
+  display: -webkit-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  -webkit-flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
+}
+.cid-sjqQzoN4Os .card-wrapper .card-img .mbr-overlay {
+  background-color: #efefef;
+  display: none;
+  transition: opacity .3s;
+}
+.cid-sjqQzoN4Os .card-wrapper .card-img .mbr-section-btn {
+  display: flex;
+  position: absolute;
+  transition: opacity .3s;
+  width: 100%;
+  margin: auto;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -webkit-align-items: center;
+}
+.cid-sjqQzoN4Os .card-wrapper .card-img img {
+  width: 100%;
+}
+.cid-sjqQzoN4Os .card-wrapper .card-box {
+  background-color: #fef4e2;
+  padding: 0 2rem 2rem 2rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.cid-sjqQzoN4Os .card-wrapper .card-box h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  padding-top: 2rem;
+}
+.cid-sjqQzoN4Os .card-wrapper .card-box p {
+  margin-bottom: 0;
+  padding-top: 1.5rem;
+}
+.cid-sjqQzoN4Os .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-sjqQzoN4Os .popup-btn .mbr-overlay {
+  display: block !important;
+  opacity: 0;
+}
+.cid-sjqQzoN4Os .popup-btn .mbr-section-btn {
+  height: 100%;
+  display: -webkit-flex !important;
+  opacity: 0;
+}
+.cid-sjqQzoN4Os .popup-btn:hover .mbr-overlay {
+  opacity: .5;
+}
+.cid-sjqQzoN4Os .popup-btn:hover .mbr-section-btn {
+  opacity: 1;
+}
+.cid-sjqQzoN4Os .card-title {
+  color: #7f9f6e;
+  text-align: center;
+}
 .cid-sbUtuXCM0h {
   background: #fef4e2;
   padding-top: 60px;
@@ -8840,7 +8933,7 @@ body {
   color: #333333;
 }
 .cid-sb3RN1cFHh UL {
-  color: #009496;
+  color: #424242;
   text-align: center;
 }
 .cid-sb3RN1cFHh B {
