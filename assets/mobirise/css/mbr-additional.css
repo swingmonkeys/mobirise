@@ -2273,6 +2273,41 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #b3ce9e !important;
 }
+.cid-sIYtTvvQD7 {
+  padding-top: 120px;
+  padding-bottom: 45px;
+  background-color: #fef4e2;
+}
+.cid-sIYtTvvQD7 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-sIYtTvvQD7 .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sIYtTvvQD7 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sIYtTvvQD7 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-sIYtTvvQD7 H3 {
+  color: #7f9f6e;
+  text-align: center;
+}
+.cid-sIYtTvvQD7 .mbr-text,
+.cid-sIYtTvvQD7 .mbr-section-btn {
+  color: #7f9f6e;
+  text-align: center;
+}
 .cid-scKUBhQGzC {
   padding-top: 120px;
   padding-bottom: 45px;
