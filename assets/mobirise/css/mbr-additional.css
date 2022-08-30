@@ -11107,15 +11107,15 @@ body {
 .cid-s8GDjwoazU H2 {
   color: #7f9f6e;
 }
-.cid-s8qoQZhX0Y {
+.cid-tfYOFzqDgM {
   padding-top: 45px;
   padding-bottom: 45px;
   background: linear-gradient(45deg, #fef4e2, #fef4e2);
 }
-.cid-s8qoQZhX0Y .list-group-item {
+.cid-tfYOFzqDgM .list-group-item {
   padding: .75rem 3.25rem;
 }
-.cid-s8qoQZhX0Y .plan {
+.cid-tfYOFzqDgM .plan {
   word-break: break-word;
   position: relative;
   max-width: 300px;
@@ -11123,13 +11123,13 @@ body {
   padding-left: 0;
   color: #767676;
 }
-.cid-s8qoQZhX0Y .plan .list-group-item {
+.cid-tfYOFzqDgM .plan .list-group-item {
   position: relative;
   -webkit-justify-content: center;
   justify-content: center;
   border: 0;
 }
-.cid-s8qoQZhX0Y .plan .list-group-item::after {
+.cid-tfYOFzqDgM .plan .list-group-item::after {
   position: absolute;
   bottom: 0;
   left: 20%;
@@ -11138,49 +11138,49 @@ body {
   content: "";
   background-color: #eaeaea;
 }
-.cid-s8qoQZhX0Y .plan .list-group-item:last-child::after {
+.cid-tfYOFzqDgM .plan .list-group-item:last-child::after {
   display: none;
 }
-.cid-s8qoQZhX0Y .plan-header {
+.cid-tfYOFzqDgM .plan-header {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.cid-s8qoQZhX0Y .plan-header,
-.cid-s8qoQZhX0Y .plan-body {
+.cid-tfYOFzqDgM .plan-header,
+.cid-tfYOFzqDgM .plan-body {
   background-color: #fff;
 }
-.cid-s8qoQZhX0Y .price-figure {
+.cid-tfYOFzqDgM .price-figure {
   font-weight: 700;
   color: #424242;
   text-align: center;
 }
-.cid-s8qoQZhX0Y .price-value {
+.cid-tfYOFzqDgM .price-value {
   font-weight: 700;
   vertical-align: top;
 }
 @media (max-width: 550px) {
-  .cid-s8qoQZhX0Y .price-figure {
+  .cid-tfYOFzqDgM .price-figure {
     font-size: 4.25rem;
   }
 }
-.cid-s8qoQZhX0Y .plan-title {
+.cid-tfYOFzqDgM .plan-title {
   color: #7f9f6e;
 }
-.cid-s8qoQZhX0Y SPAN {
-  color: #7f9f6e;
-}
-.cid-s8qoQZhX0Y .price-term {
+.cid-tfYOFzqDgM SPAN {
   color: #424242;
 }
-.cid-s8qoQZhX0Y LI {
+.cid-tfYOFzqDgM .price-term {
+  color: #424242;
+}
+.cid-tfYOFzqDgM LI {
   color: #333333;
 }
-.cid-s8qoQZhX0Y UL {
+.cid-tfYOFzqDgM UL {
   color: #7f9f6e;
   text-align: center;
 }
-.cid-s8qoQZhX0Y B {
-  color: #7f9f6e;
+.cid-tfYOFzqDgM B {
+  color: #424242;
 }
 .cid-tfP8cL2KkP {
   padding-top: 30px;
