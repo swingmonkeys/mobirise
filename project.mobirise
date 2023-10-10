@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Swing Monkeys-PAGINA NO DISPONIBLE",
-    "currentPage": "html.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -76,7 +76,7 @@
     "google-analytics": ""
   },
   "pages": {
-    "html.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Swing Monkeys",
